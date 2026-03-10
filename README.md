@@ -41,4 +41,4 @@ Applied the `http` display filter to identify an HTTP GET request and expanded t
 ![HTTP GET Request](HTTP-GET-Request.png)
 
 ---
-> **📄 Full Documentation:** For the complete step-by-step procedure, and all verification screenshots, please refer to the attached [Lab Report PDF](Lab%20Report_%20Basic%20Packet%20Capture%20and%20Protocol%20Analysis%20with%20Wireshark.pdf) included in this repository.
+> **📄 Full Documentation:** For the complete step-by-step procedure, and all verification screenshots, please refer to the attached [Lab Report PDF](Lab%20Report_%20Basic%20Packet%20Capture%20and%20Protocol%20Analysis%20with%20Wireshark%20.pdf) included in this repository.
